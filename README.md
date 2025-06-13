@@ -1,5 +1,14 @@
 # Text-sign-language-for-Fivem
-Made for QB, ESX and Standalone base of sserver
+Made for QB, ESX and Standalone base of server
+Currently available in these languages: cs = Czech
+                                        en = English
+                                        es = Spanish
+                                        de = German
+                                        fr = French
+                                        ru = Russian
+                                        zh = Chinese
+                                        ar = Arabic
+                                        pt = Portuguese
 
 Installation
 1. Extract folder
@@ -9,4 +18,4 @@ Installation
 
 Enjoy <3 <3
 
-Currently in Czech Language only message over players head, but without diacritics.
+If some language is missing and you would like to add it. Just let me know or Translate just overhead text.
