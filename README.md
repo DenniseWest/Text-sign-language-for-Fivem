@@ -18,7 +18,7 @@ Installation
 
 If some language is missing and you would like to add it. Just let me know or Translate just overhead text.
 
-TTS feature for reading Translation in chat works trough Microsoft TTS so I can't remove or add way that speaks, so please be kind if you will hear male TTS all tho character is female. (If you wish to use or disable TTS feature you can do so by overwritting Config.TTS_Enabled = true/false). Honestly I have no idea how far it could be heard or how loud.
+TTS feature in progress
 
 Wish you to have fun.
 
